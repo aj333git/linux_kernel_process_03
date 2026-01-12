@@ -75,7 +75,7 @@ dmesg | tail
 
 Remove Module
 
-sudo rmmod proc_mem_info
+sudo rmmod proc_mem_info```
 
 
 Notes
